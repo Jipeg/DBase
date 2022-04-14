@@ -1,2 +1,2 @@
 # DBase
-Database client
+Database client for MySQL database written in php
